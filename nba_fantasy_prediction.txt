@@ -1,0 +1,5 @@
+_pycache/
+*._pycachevenv/
+
+git add
+git commit -m"initial commit": Davion Mitchell fantasy predictions model"
